@@ -5,9 +5,17 @@ This is a curated list of medical datasets best-suited to the purpose of learnin
 
 ## Contents
 - [Medical Images](#1-medical-images)
+    - [X-Rays](#x-rays)
+    - [CT](#ct)
+    - [MRI](#mri)
+    - [Histology](#histology)
+    - [Other](#other-ultrasound-retinal)
 - [Text Data](#2-text-data)
+    - [Clinical](#clinical)
+    - [Research](#biomedical-research)
 - [Other Modalities and Multi-Modal](#3-other-modalities-and-multi-modal)
-<!-- TODO: add sub-headings to the content index -->
+    - [Bioinformatics](#bioinformatics--biospecimen)
+    - [Time Series](#time-series)
 
 
 ## Principles of this repository
