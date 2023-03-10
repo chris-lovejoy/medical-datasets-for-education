@@ -41,9 +41,7 @@ This is a curated list of medical datasets best-suited to the purpose of learnin
 
 ### Histology
 
-
-TCGA: http://cancergenome.nih.gov/ https://tcga-data.nci.nih.gov/tcga/ 
-
+[Automatic Non-rigid Histological Image Registration (ANHIR) challenge dataset](https://anhir.grand-challenge.org): 50+ histological sets of whole slide images
 
 
 ### Other (Ultrasound, Retinal)
@@ -87,4 +85,8 @@ TCGA: http://cancergenome.nih.gov/ https://tcga-data.nci.nih.gov/tcga/
 
 
 ## Other Lists of Medical Datasets
+
+- [List of Medical Imaging Datasets by Adrian Dalca](https://github.com/adalca/medical-datasets)
+- [List of Medical Imaging Datasets by Giorgos Sfikas](https://github.com/sfikas/medical-imaging-datasets)
+- [Medical Data for Machine Learning by Andrew Beam](https://github.com/beamandrew/medical-data)
 
