@@ -19,7 +19,7 @@ This is a curated list of medical datasets best-suited to the purpose of learnin
 
 
 ## Principles of this repository
-- Contributions are actively encouraged. Please [submit a pull request](https://github.com/chris-lovejoy/medical-datasets-for-education/pulls).
+- Contributions are actively encouraged. Please either add [an Issue](./issue), [submit a pull request](./pulls) or ping an email to hi at chrislovejoy.me.
 - Links to high-quality tutorials utilising the dataset will be included along with the dataset description, where such tutorials and walk-throughs are available. 
 - This list exists in collaboration with [other lists of medical datasets](#other-lists-of-medical-datasets) which have different approaches and focusses.
 
