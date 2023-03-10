@@ -1,4 +1,4 @@
-# High-Quality, Open-Source Medical Datasets for Education
+# High-Quality, Open-Source Medical Datasets for Education (Crowd-Sourced)
 
 This is a curated list of medical datasets best-suited to the purpose of learning and teeaching. It is not intended to be comprehensive list of all medical datasets - rather, the intention is to include data that has been vetted for both **quality** and **ease-of-access** (ie. open-source) and which are therefore well-suited to educational purposes.
 
@@ -19,7 +19,7 @@ This is a curated list of medical datasets best-suited to the purpose of learnin
 
 
 ## Principles of this repository
-- Contributions are actively encouraged. Please either add [an Issue](https://github.com/chris-lovejoy/medical-datasets-for-education/issues), [submit a pull request](https://github.com/chris-lovejoy/medical-datasets-for-education/pulls) or ping an email to hi at chrislovejoy.me.
+- The hope is for this to become a **crowd-sourced** resource and therefore contributions are warmly invited. Please either add [an Issue](https://github.com/chris-lovejoy/medical-datasets-for-education/issues), [submit a pull request](https://github.com/chris-lovejoy/medical-datasets-for-education/pulls) or ping an email to hi at chrislovejoy.me.
 - Links to high-quality tutorials utilising the dataset will be included along with the dataset description, where such tutorials and walk-throughs are available. 
 - This list exists in collaboration with [other lists of medical datasets](#other-lists-of-medical-datasets) which have different approaches and focusses.
 
